@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yashwanth
 - 👀 I’m interested in Data science and machine learning
 - 🌱 I’m currently learning data science in edyoda
-- 📫 to reach me mail me ---- yashwanthmn1@gmail.com
+- 📫 to reach me ---- yashwanthmn1@gmail.com
